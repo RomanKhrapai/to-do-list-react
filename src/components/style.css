@@ -1,0 +1,23 @@
+.to-do-list{
+    padding: 15px 10px;
+background-color: rgba(201, 177, 146, 0.596);
+border: 2px solid rgba(201, 177, 146);
+border-radius: 5px;
+}
+.to-do-list__box{
+    font-size: 16px;
+}
+.to-do-list__box--flex{
+    display: flex;
+    justify-content: center;
+}
+.to-do-list__input{
+margin-right: 10px;
+font-size: 16px;
+padding: 3px;
+font-weight: 600;
+}
+.to-do-list__btn{
+    font-size: 16px;
+font-weight: 600;
+}
