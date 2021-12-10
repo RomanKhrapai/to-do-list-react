@@ -84,6 +84,7 @@ class App extends Component {
     render(){
         return(
     <div className="to-do-list">
+        <h3 className="to-do-list__title"> to-do-list </h3>
         <div className="to-do-list__box to-do-list__box--flex"> 
             <input className='to-do-list__input'
                 value={this.state.inputValue}

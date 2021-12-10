@@ -21,3 +21,9 @@ font-weight: 600;
     font-size: 16px;
 font-weight: 600;
 }
+.to-do-list__title{
+    text-transform: uppercase;
+    margin: 0 0 10px 0;
+    font-size: 27px;
+    text-align: center;
+}
